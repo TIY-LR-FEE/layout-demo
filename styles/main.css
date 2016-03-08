@@ -4,30 +4,25 @@ header {
   background-color: crimson;
 }
 
-main {
-  width: 980px;
-  margin: 0 auto;
-}
-
 .content {
   height: 250px;
   background-color: black;
   float: left;
-  width: 380px;
+  width: 60%;
 }
 
 .middle {
   height: 250px;
   background-color: chartreuse;
   float: left;
-  width: 300px;
+  width: 20%;
 }
 
 .sidebar {
   height: 250px;
   background-color: burlywood;
   float: left;
-  width: 300px;
+  width: 20%;
 }
 
 footer {
