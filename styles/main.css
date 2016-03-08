@@ -1,0 +1,42 @@
+header {
+  height: 250px;
+  width: 100%;
+  background-color: crimson;
+}
+
+main {
+  width: 980px;
+  margin: 0 auto;
+}
+
+.content {
+  height: 250px;
+  background-color: black;
+  float: left;
+  width: 380px;
+}
+
+.middle {
+  height: 250px;
+  background-color: chartreuse;
+  float: left;
+  width: 300px;
+}
+
+.sidebar {
+  height: 250px;
+  background-color: burlywood;
+  float: left;
+  width: 300px;
+}
+
+footer {
+  height: 250px;
+  width: 100%;
+  background-color: darkgrey;
+}
+
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
